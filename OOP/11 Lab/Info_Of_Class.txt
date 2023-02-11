@@ -1,0 +1,15 @@
+Класс находится в пространстве имен Programm_Namespace
+Класс не имеет публичного конструктора
+Методы:
+Say_My_Name
+get_Password
+set_Password
+GetType
+ToString
+Equals
+GetHashCode
+Поля:
+public String Name
+Свойства:
+System.String Password {get;set;}
+Интерфейсы:
